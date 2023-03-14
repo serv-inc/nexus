@@ -1,3 +1,3 @@
 # Moved
 
-Merged into https://github.com/sonatype/nexus-oss
+Merged into https://github.com/sonatype/nexus-public
